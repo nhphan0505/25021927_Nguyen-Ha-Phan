@@ -1,1 +1,3 @@
-# Nguyen-Ha-Phan---MSV-25021927
+# Name: Nguyen Ha Phan
+# Class: CS2
+# Id: 25021927
